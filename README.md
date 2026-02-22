@@ -337,7 +337,7 @@ AgriScan is designed for scalable agricultural deployment including:
 
 - Name: Abhinav Mehra 
 - Contribution Area: Developer 
-- Contact:
+- Contact: https://www.linkedin.com/in/abhinav-mehra-356a7a333
 
 ---
 
